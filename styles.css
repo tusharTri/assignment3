@@ -37,7 +37,8 @@ section {
 	font-family: Helvetica;
 	color: black;
 	position: relative;
-	overflow: auto;
+	height: 70%;
+	overflow: scroll;
 	padding: 10px;
 }
 
