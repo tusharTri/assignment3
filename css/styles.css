@@ -37,7 +37,8 @@ section>div {
 	font-family: Helvetica;
 	color: black;
 	position: relative;
-	overflow: auto;
+	height: 60%;
+	overflow: scroll;
 	padding-left: 0;
 	padding-right: 0;
 }
